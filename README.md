@@ -7,7 +7,8 @@ public class Employee{
     protected String Name;   // visível apenas pelas subclasses em pacotes externos
     public String position;  // visível para qualquer classe
     String department;       // default: visível apenas para as subclasses dentro do mesmo pacote
-    public Employee(Integer ID, String Name, String position, String department){
+   
+   public Employee(Integer ID, String Name, String position, String department){
         this.ID = ID;
         this.Name = Name;
         this.position = position;
