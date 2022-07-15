@@ -16,3 +16,7 @@ public class Employee{
     }
 }
 
+Access Modifiers
+https://stackoverflow.com/questions/215497/what-is-the-difference-between-public-protected-package-private-and-private-in
+
+![image](https://user-images.githubusercontent.com/81716096/179139040-42d7b88d-6cb3-4464-bfb6-79941761d28c.png)
