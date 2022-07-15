@@ -17,6 +17,7 @@ Access Modifiers
 https://stackoverflow.com/questions/215497/what-is-the-difference-between-public-protected-package-private-and-private-in
 
 Protegido - fora do mesmo pacote acessível apenas pelas subclasses
+
 default - (sem definir modificadores de acesso) acessível apenas dentro do mesmo pacote
 
 ![image](https://user-images.githubusercontent.com/81716096/179140475-57585c7c-67d6-4518-ae2d-a3b5260bcfc4.png)
